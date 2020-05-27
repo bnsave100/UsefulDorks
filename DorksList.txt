@@ -17,3 +17,5 @@ intitle:"index.of" inurl:ftp
 inurl:/backup
 
 filetype:xls "password" "username" "email"
+
+intitle:"index.of" "File" "Size" "Modified" intext:".xls" "password"
