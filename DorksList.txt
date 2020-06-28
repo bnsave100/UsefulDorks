@@ -26,3 +26,5 @@ intitle:"index.of" intext:"password"
 
 inurl:admin intitle:"index.of"
 
+intitle:"index.of" inurl:anagrafica
+
