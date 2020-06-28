@@ -23,3 +23,6 @@ intitle:"index.of" "File" "Size" "Modified" intext:".xls" "password"
 filetype:txt "@gmail.com" username password
 
 intitle:"index.of" intext:"password"
+
+inurl:admin intitle:"index.of"
+
