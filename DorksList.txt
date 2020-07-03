@@ -28,3 +28,5 @@ inurl:admin intitle:"index.of"
 
 intitle:"index.of" inurl:anagrafica
 
+intitle:"index.of" intext:".ovpn"
+
