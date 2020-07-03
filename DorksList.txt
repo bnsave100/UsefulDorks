@@ -34,3 +34,5 @@ intitle:"index.of" "Parent directory" intext:"wallet.dat"
 
 intext:.log intitle:"index.of"
 
+inurl:"index.php?page="
+
