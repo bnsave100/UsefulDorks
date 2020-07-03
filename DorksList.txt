@@ -31,3 +31,6 @@ intitle:"index.of" inurl:anagrafica
 intitle:"index.of" intext:".ovpn"
 
 intitle:"index.of" "Parent directory" intext:"wallet.dat"
+
+intext:.log intitle:"index.of"
+
