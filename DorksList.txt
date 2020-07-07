@@ -2,6 +2,8 @@ intitle:”index.of” “parent directory” “size” “last modified” “
 
 inurl:wp-content
 
+inurl:/wp-content/uploads intext:.mp4
+
 inurl:wp-admin
 
 inurl:/uploads/
