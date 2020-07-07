@@ -38,3 +38,4 @@ intext:.log intitle:"index.of"
 
 inurl:"index.php?page="
 
+inurl:database intitle:"index.of"
