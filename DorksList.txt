@@ -41,3 +41,6 @@ inurl:"index.php?page="
 inurl:database intitle:"index.of"
 
 inurl:"/login.jsp" intitle:"index.of"
+
+intitle:"index.of" intext:"access.log"
+
