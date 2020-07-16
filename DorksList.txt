@@ -44,3 +44,5 @@ inurl:"/login.jsp" intitle:"index.of"
 
 intitle:"index.of" intext:"access.log"
 
+intitle:"index of" "apikey" apiKey api_key
+
