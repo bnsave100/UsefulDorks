@@ -1,4 +1,11 @@
+## All explorable:
+
 intitle:”index.of” “parent directory” “size” “last modified” “description” -site:.info
+
+## Admin:
+inurl:admin intitle:"index.of"
+
+## WordPress:
 
 inurl:wp-content
 
@@ -8,13 +15,20 @@ inurl:wp-admin
 
 inurl:/uploads/
 
+## Windows Server:
 inurl:App_Data
 
 intitle:”index.of” “parent directory” “size” “last modified” “description” (mp4|flv|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml) -site:.info
 
-intitle:"index.of"
-
+## Ftp:
 intitle:"index.of" inurl:ftp
+
+## Backup, logs & Credentials:
+intext:.log intitle:"index.of"
+
+intitle:"index.of" intext:"access.log"
+
+inurl:database intitle:"index.of"
 
 inurl:/backup
 
@@ -26,27 +40,18 @@ filetype:txt "@gmail.com" username password
 
 intitle:"index.of" intext:"password"
 
-inurl:admin intitle:"index.of"
-
+## Others:
 intitle:"index.of" inurl:anagrafica
 
 intitle:"index.of" intext:".ovpn"
 
 intitle:"index.of" "Parent directory" intext:"wallet.dat"
 
-intext:.log intitle:"index.of"
-
 inurl:"index.php?page="
-
-inurl:database intitle:"index.of"
 
 inurl:"/login.jsp" intitle:"index.of"
 
-intitle:"index.of" intext:"access.log"
-
 intitle:"index of" "apikey" apiKey api_key
-
-inurl:"/index.php?page="
 
 intext:.ovpn intitle:"index of" "parent directory" "size"
 
