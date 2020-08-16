@@ -1,12 +1,10 @@
-## All explorable:
-
+## Explorable:
 intitle:”index.of” “parent directory” “size” “last modified” “description” -site:.info
 
 ## Admin:
 inurl:admin intitle:"index.of"
 
 ## WordPress:
-
 inurl:wp-content
 
 inurl:/wp-content/uploads intext:.mp4
