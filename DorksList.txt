@@ -48,3 +48,5 @@ intitle:"index of" "apikey" apiKey api_key
 
 inurl:"/index.php?page="
 
+intext:.ovpn intitle:"index of" "parent directory" "size"
+
